@@ -5,4 +5,5 @@ Haitham Essoussi 100011476
 Denis Maingi 100011920
 Efe Dagli 100011973
 Obay Rihan 100010242
-
+Sandrin Stalin 100010143
+>>>>>>> c9d3fa4 (Update README and remove student.txt)
